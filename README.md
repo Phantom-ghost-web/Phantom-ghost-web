@@ -6,8 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i do dog breeding and dog shows
 
-  (●__●)
+  (●__●)  I don’t know why I’m still here
 <!---
-Phantom-ghost-web/Phantom-ghost-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Phantom-ghost-web/Phantom-ghost-web is a ✨ special ✨ repository because its `README.md` (this fiBerlin Sans FB Demile) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
