@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Phantom-ghost-web
 - 👀 I’m interested in: musik, gaming, movies
-- 🌱 I’m currently learning: python and Luau
-- 💞️ do not collaborate with me
-- 📫 How to reach me: don’t do it, don’t think about it
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i do dog breeding and dog shows
+- 🌱 I’m currently learning: PHP
+- 👾 What I want to learn: C#, Lua and more will probebly come soon
+- 💞️ Do not collaborate with me, just don’t
+- 📫 How to reach me: don’t do it, don’t even think about it
+- ⚡ Fun fact: I don’t know what I’m doing
 
   (●__●)  I don’t know why I’m still here
 <!---
