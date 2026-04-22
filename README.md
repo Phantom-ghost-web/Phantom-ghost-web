@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phantom
 - 👀 I’m interested in: musik, gaming, movies, game making
 - 🌱 I’m currently learning: C# and C++
-- 👾 What I want to learn: C#, Lua and more will probebly come soon
+- 👾 What I want to learn: C#, C++ and more will probebly come soon
 - ⚡ Fun fact: I don’t know what I’m doing
 
 <!---
